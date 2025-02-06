@@ -1,0 +1,4 @@
+exclude_dirs:
+  - DP03_tutorials
+  - Intro_to_RSP
+  - VISTA-HSC_tutorials
